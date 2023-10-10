@@ -60,6 +60,11 @@
 			margin-bottom: 20px;
 			border-radius: 20px;
 		}
+
+		p {
+			color: red;
+			font-weight: bold;
+		}
 	</style>
 </head>
 
